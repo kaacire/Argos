@@ -23,7 +23,7 @@ export default function Logo({ size = 'md', showText = true, light = false }: Lo
       {showText && (
         <div>
           <h1 className={`font-bold ${s.text} ${light ? 'text-white' : 'text-primary-800'}`}>
-            Giro do Tempo
+            Argos
           </h1>
           {size === 'lg' && (
             <p className={`text-xs ${light ? 'text-white/80' : 'text-slate-500'}`}>

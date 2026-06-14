@@ -1,4 +1,4 @@
-# Giro do Tempo
+# ARGOS
 
 **Sistema Inteligente de Monitoramento e Prevenção de Riscos Climáticos Urbanos**
 
@@ -32,15 +32,15 @@ npm run preview
 
 ## Telas
 
-| Tela | Rota | Descrição |
-|------|------|-----------|
-| Início | `/` | Clima atual, risco geral, alertas resumidos |
-| Mapa | `/mapa` | Mapa Leaflet com 8 camadas ativáveis |
-| Alertas | `/alertas` | Cartões de alerta com níveis de risco |
-| Relatos | `/relatos` | Relatos da comunidade com fotos simuladas |
-| Emergência | `/emergencia` | Contatos de emergência |
-| Histórico | `/historico` | Gráficos climáticos com filtros |
-| IA Preditiva | `/ia` | Painel de análise de riscos por IA |
+| Tela         | Rota          | Descrição                                   |
+| ------------ | ------------- | ------------------------------------------- |
+| Início       | `/`           | Clima atual, risco geral, alertas resumidos |
+| Mapa         | `/mapa`       | Mapa Leaflet com 8 camadas ativáveis        |
+| Alertas      | `/alertas`    | Cartões de alerta com níveis de risco       |
+| Relatos      | `/relatos`    | Relatos da comunidade com fotos simuladas   |
+| Emergência   | `/emergencia` | Contatos de emergência                      |
+| Histórico    | `/historico`  | Gráficos climáticos com filtros             |
+| IA Preditiva | `/ia`         | Painel de análise de riscos por IA          |
 
 ## Dados
 
